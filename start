@@ -1,0 +1,4 @@
+#!/bin/sh
+pip install -r requirements.txt > /dev/null
+cd src/scripts
+python app.py
