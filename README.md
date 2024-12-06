@@ -6,7 +6,7 @@ The aim of this project is to create a regression model to predict soft wheat yi
 
 ## Installation
 
-1. Clone the repository: `git clone https://gitlab.com/valerio.desiati/ai_course_template.git`.
+1. Clone the repository: `git clone https://github.com/valeriodesiati/Soft-Wheat-Harvest-Prediction`.
 2. Install the dependencies and run the Flask app: `./start`.
 3. Visit the link `https://127.0.0.1:5000` in your browser.
 
